@@ -10,7 +10,7 @@ body {
   background-color: #222222;
   margin: 0 auto;
   width: 100%;
-  max-width: 320px;
+  /*max-width: 320px;*/
   min-height: 568px;
   margin: 0 auto;
   border-radius: 8px;
