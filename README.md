@@ -1,3 +1,4 @@
-# Mobile navigation  animation
+# Responsive Image Carousel ( Animation )
 
-Mobile navigation open and close animations using GSAP TweenMax and TimelineMax. Still needs some transition tweaking...
+A Pen created on CodePen.io. Original URL: [https://codepen.io/noirsociety/pen/ZEwLGXB](https://codepen.io/noirsociety/pen/ZEwLGXB).
+
